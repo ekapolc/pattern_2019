@@ -1,2 +1,3 @@
-# pattern_2019
-Pattern recognition course 2019
+# Pattern Recognition
+Pattern Recognition course @ Chulalongkorn University Fall 2019
+![Image of 2019 meme](figures/meme.jpg)
